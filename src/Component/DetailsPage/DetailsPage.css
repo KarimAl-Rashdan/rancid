@@ -1,0 +1,29 @@
+.posterSection {
+  height: 70vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.posterDetails {
+  margin: 68px;
+  background-color: azure;
+  height: 60vh;
+  width: 35%;
+  border-width: 5px;
+  box-sizing: border-box;
+  border-style: ridge;
+}
+
+footer {
+  background-color: dimgray;
+  color: cornsilk;
+  height:20vh;
+}
+.details {
+  margin:6px;
+  width:100%;
+  height: 30px;
+}

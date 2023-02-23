@@ -1,0 +1,34 @@
+.movie {
+  width: 100%;
+  height: 36vh;
+  border: 2px solid yellow;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:10px;
+  background-color: white;
+}
+
+img {
+  height: 165px;
+  width: 100%;
+}
+h3 {
+  font-size: small;
+  margin:0px;
+  text-decoration: inherit; 
+}
+.star, p {
+  height: 15px;
+  margin: 0px;
+  width: 23px;
+}
+.label {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+.titleRating {
+  height: 60px;
+}
